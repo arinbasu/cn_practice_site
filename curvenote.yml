@@ -1,0 +1,18 @@
+version: 1
+project:
+  title: A curvenote paper
+  authors:
+   - name: A Basu
+     email: arinbasu@tuta.com
+  github: https://github.com/arinbasu/cn_practice_site
+  id: f79a169e-2d32-4a3a-960a-132b2e81941c
+site:
+  title: CN site
+  options:
+    logo_text: CNote
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://curvenote.com/docs/web
+  domains:
+    - arinbasu.curve.space
